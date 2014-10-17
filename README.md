@@ -3,4 +3,4 @@ ElliKeyPublic
 
 Elliptic Keyboard Public Comments
 
-Please, publish your comments, suggestions or errors here
+Please, publish your comments, suggestions or errors here using "Issues" tool
